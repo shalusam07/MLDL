@@ -1,4 +1,4 @@
-# DLML
+# MLDL
 MLDL stands for Machine Learning and Deep Learning. It refers to a field within artificial intelligence where algorithms and models are designed to enable machines to learn and make predictions or decisions without being explicitly programmed.
 
 Machine learning involves the development of techniques that allow computers to learn from data and improve their performance on specific tasks over time. It encompasses various types of algorithms like supervised learning, unsupervised learning, and reinforcement learning.
